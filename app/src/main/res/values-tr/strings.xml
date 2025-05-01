@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Toolbar Başlığı -->
+    <string name="app_name">BiletSatış</string>
+
+    <!-- Uçuş Başlığı -->
+    <string name="flight_destination">İstanbul → Berlin</string>
+
+    <!-- Uçuş Tarihi -->
+    <string name="flight_date">21 Mayıs 2025</string>
+
+    <!-- Chip Butonlar -->
+    <string name="chip_economy">Ekonomi</string>
+    <string name="chip_business">Business</string>
+    <string name="chip_luggage">Bagaj</string>
+    <string name="chip_fast_track">Hızlı Geçiş</string>
+
+    <!-- Uçuş Süresi Başlığı -->
+    <string name="flight_time_label">Uçuş Süresi</string>
+
+    <!-- Uçuş Süresi -->
+    <string name="flight_duration">3 saat 15dk</string>
+
+    <!-- Mesaj -->
+    <string name="flight_message">Türk Hava Yolları size keyifli bir uçuş diler!</string>
+
+    <!-- Fiyat (isteğe bağlı, değişmeyebilir) -->
+    <string name="flight_price">$ 150</string>
+
+    <!-- Satın Al Butonu -->
+    <string name="buy_button">SATIN AL</string>
+</resources>

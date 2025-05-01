@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TicketSales</string>
+    <string name="flight_destination">Istanbul → Berlin</string>
+    <string name="flight_date">21 May 2025</string>
+    <string name="chip_economy">Economy</string>
+    <string name="chip_business">Business</string>
+    <string name="chip_luggage">Luggage</string>
+    <string name="chip_fast_track">Fast Track</string>
+    <string name="flight_time_label">Flight Time</string>
+    <string name="flight_duration">3 hours 15m</string>
+    <string name="flight_message">Turkish Airlines wishes you a pleasant flight!</string>
+    <string name="flight_price">$ 150</string>
+    <string name="buy_button">TO BUY</string>
+</resources>
